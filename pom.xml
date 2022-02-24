@@ -11,10 +11,12 @@
     <name>dropped-transitive</name>
 
     <dependencyManagement>
-        <groupId>xerces</groupId>
-        <artifactId>xercesImpl</artifactId>
-        <version>2.11.0</version>
-        <scope>compile</scope>
+        <dependency>
+            <groupId>xerces</groupId>
+            <artifactId>xercesImpl</artifactId>
+            <version>2.11.0</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencyManagement>
     <dependencies>
         <dependency>

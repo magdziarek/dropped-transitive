@@ -21,10 +21,5 @@
            <artifactId>ant</artifactId>
            <version>1.10.10</version>
         </dependency>
-        <dependency>
-            <groupId>org.apereo.cas</groupId>
-            <artifactId>cas-server-core-validation</artifactId>
-            <version>5.0.2</version>
-        </dependency>
     </dependencies>
 </project>

@@ -6,9 +6,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.snyk</groupId>
-    <artifactId>verbose-bassoon</artifactId>
+    <artifactId>dropped-transitive</artifactId>
     <version>1.0</version>
-    <name>Verbose-Bassoon</name>
+    <name>dropped-transitive</name>
 
     <dependencies>
         <dependency>
